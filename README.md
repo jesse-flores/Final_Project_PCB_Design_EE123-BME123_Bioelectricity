@@ -7,7 +7,7 @@ Across finals week, I offered to help my advisor solder some components onto a P
 
 After soldering the components, I took some pictures of the final product and shared them on my GitHub repository. Here are the boards:
 
-![boards soldered](assets\boards_soldered.jpg)
+![boards soldered](assets/boards_soldered.jpg)
 
 # Custom PCB Design
 
@@ -15,11 +15,11 @@ However, I did not want to stop there. The boards I built were organized by my a
 
 This repo is mostly for me to keep track of my progress. This was my first attempt at designing a custom PCB.
 
-![Custom PCB Design](assets\pcb_angle.png)
+![Custom PCB Design](assets/pcb_angle.png)
 
 The board relies on an STM32 NUCLEO-L432KC microcontroller. The following diagram refers to it.
 
-![STM32 NUCLEO-L432KC Pinout](assets\nucleo_l432kc_board.png)
+![STM32 NUCLEO-L432KC Pinout](assets/nucleo_l432kc_board.png)
 
 I hope this can be a helpful resource for students in the future who are working on similar projects or just want to see what a PCB design looks like for a bioelectricity project.
 
