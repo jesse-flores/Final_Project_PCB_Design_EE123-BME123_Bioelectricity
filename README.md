@@ -28,5 +28,3 @@ I hope this can be a helpful resource for students in the future who are working
 # Course Website
 
 [https://www.ece.tufts.edu/ee/123/](https://www.ece.tufts.edu/ee/123/)
-
-Feel free to reach out if you have any questions or want to collaborate on future projects!
