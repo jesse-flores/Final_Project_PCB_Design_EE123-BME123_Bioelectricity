@@ -1,6 +1,8 @@
 # Final_Project_PCB_Design_EE123-BME123_Bioelectricity
 Design of the circuit designed for the final project in Tufts University's bioelectricity course (EE123/BME123) taught by Joel Grodstein.
 
+![PCB Designed](assets/pcb_built.png)
+
 # Introduction
 
 Across finals week, I offered to help my advisor solder some components onto a PCB for the final project attached to his bioelectricyt course (EE123/BME123). I love to solder and found this a fun opportunity to explore to destress away from finals. I also wanted to share the experience with others who may be interested in learning how to solder or want to see what the final project looks like.
